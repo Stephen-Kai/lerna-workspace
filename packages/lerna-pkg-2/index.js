@@ -1,3 +1,3 @@
 export function format(a) {
-  return `Output: ${a}`
+  return `Output: ${a}.`
 }
