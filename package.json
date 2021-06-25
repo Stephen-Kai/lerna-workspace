@@ -17,7 +17,9 @@
   },
   "devDependencies": {
     "husky": "^6.0.0",
-    "lerna": "^3.22.1"
+    "lerna": "^3.22.1",
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4"
   },
   "husky": {
     "hooks": {
@@ -28,9 +30,5 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
-  },
-  "dependencies": {
-    "@commitlint/cli": "^12.1.4",
-    "@commitlint/config-conventional": "^12.1.4"
   }
 }
