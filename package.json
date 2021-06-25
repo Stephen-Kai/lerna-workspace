@@ -16,10 +16,11 @@
     "release": "HUSKY_BYPASS=true lerna publish"
   },
   "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
     "husky": "^6.0.0",
     "lerna": "^3.22.1",
-    "@commitlint/cli": "^12.1.4",
-    "@commitlint/config-conventional": "^12.1.4"
+    "lerna-changelog": "^1.0.1"
   },
   "husky": {
     "hooks": {
