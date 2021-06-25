@@ -12,6 +12,7 @@
     "packages/*"
   ],
   "scripts": {
+    "test": "echo test && exit 0",
     "release": "HUSKY_BYPASS=true lerna publish"
   },
   "devDependencies": {
