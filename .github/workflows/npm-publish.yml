@@ -47,7 +47,7 @@ jobs:
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "samuraitruong@hotmail.com"
           git remote -v
-          yarn lerna tsc
+          yarn lerna run tsc
           yarn lerna publish --yes --conventional-commits
         env:
           HUSKY_BYPASS: true
