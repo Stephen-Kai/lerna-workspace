@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 14
       - run: yarn
-      - run: yarn lerna tsc
+      - run: yarn lerna run tsc
       - run: yarn test
 
 
