@@ -1,0 +1,22 @@
+{
+ "compilerOptions": {
+   "outDir": "./lib",
+   "module": "ES6",
+   "declaration": true,
+   "noImplicitAny": false,
+   "removeComments": true,
+   "noLib": false,
+   "moduleResolution":"Node",
+   "emitDecoratorMetadata": true,
+   "experimentalDecorators": true,
+   "target": "es6",
+   "sourceMap": true,
+   "lib": [
+     "es6"
+   ]
+ },
+ "exclude": [
+   "node_modules",
+   "**/*.spec.ts"
+ ]
+}

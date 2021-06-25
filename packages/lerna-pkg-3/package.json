@@ -2,6 +2,10 @@
   "name": "@samuraitruong/lerna-pkg-3",
   "version": "1.0.5",
   "type": "module",
+  "main": "lib/index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:samuraitruong/lerna-workspace.git",
