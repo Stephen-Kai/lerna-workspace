@@ -1,0 +1,14 @@
+{
+  "name": "@samuraitruong/lerna-pkg-3",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:samuraitruong/lerna-workspace.git",
+    "directory": "packages/lerna-pkg-3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "gitHead": "872a38107526b8eb482f9b48965d91d68e0c9617"
+}
