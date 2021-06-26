@@ -7,9 +7,9 @@ import { format } from "@samuraitruong/lerna-pkg-2";
  * @returns {number} sum of a +b
  */
 export function sum(a, b) {
-  return format(a+b)
+  return format(a, b, a + b)
 }
 
 export function sumArr(...args) {
-  return args.reduce((a,b) => a+b,0)
+  return args.reduce((a, b) => a + b, 0)
 }

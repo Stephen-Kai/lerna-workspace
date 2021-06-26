@@ -1,5 +1,5 @@
-export function format(a) {
-  return `Output: ${a}. teset`
+export function format(a, b, c) {
+  return `Sum(${a}, ${b}) = ${c}`
 }
 
 export const VERSION = 2;

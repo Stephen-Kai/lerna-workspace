@@ -12,15 +12,23 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "echo test && exit 0",
-    "release": "HUSKY_BYPASS=true lerna publish"
+    "lint": "eslint .",
+    "test": "jest",
+    "release": "HUSKY_BYPASS=true lerna publish",
+    "dev": "node --loader ts-node/esm src/index.ts"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
+    "@types/jest": "^26.0.23",
+    "@typescript-eslint/eslint-plugin": "^4.28.0",
+    "@typescript-eslint/parser": "^4.28.0",
+    "eslint": "^7.29.0",
     "husky": "^6.0.0",
+    "jest": "^27.0.5",
     "lerna": "^3.22.1",
     "lerna-changelog": "^1.0.1",
+    "ts-jest": "^27.0.3",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.4"
   },
