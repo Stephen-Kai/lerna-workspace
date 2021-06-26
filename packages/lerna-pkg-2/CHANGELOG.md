@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-2@1.2.0...@samuraitruong/lerna-pkg-2@1.3.0) (2021-06-26)
+
+
+### Features
+
+* test update package 2 ([4558af2](https://github.com/samuraitruong/lerna-workspace/commit/4558af224711beee905226c3c3a72fdf8f57aa9c))
+
+
+
+
+
 # [1.2.0](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-2@1.1.0...@samuraitruong/lerna-pkg-2@1.2.0) (2021-06-26)
 
 
