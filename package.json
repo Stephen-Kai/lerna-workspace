@@ -17,6 +17,12 @@
     "release": "HUSKY_BYPASS=true lerna publish",
     "dev": "node --loader ts-node/esm src/index.ts"
   },
+  "dependencies": {
+    "@samuraitruong/lerna-pkg-1": "*",
+    "@samuraitruong/lerna-pkg-2": "*",
+    "@samuraitruong/lerna-pkg-3": "*",
+    "@samuraitruong/lerna-pkg-4": "*"
+  },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
@@ -24,6 +30,7 @@
     "@typescript-eslint/eslint-plugin": "^4.28.0",
     "@typescript-eslint/parser": "^4.28.0",
     "eslint": "^7.29.0",
+    "eslint-plugin-import": "^2.23.4",
     "husky": "^6.0.0",
     "jest": "^27.0.5",
     "lerna": "^3.22.1",

@@ -10,5 +10,18 @@
   "extends": [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended"
-  ]
+  ],
+   "settings": {
+    "import/resolver": {
+      "alias": {
+        "map": [
+          ["@samuraitruong/lerna-pkg-1", "./packages/lerna-pkg-1/src"],
+          ["@samuraitruong/lerna-pkg-2", "./packages/lerna-pkg-2/src"],
+          ["@samuraitruong/lerna-pkg-3", "./packages/lerna-pkg-3/src"],
+          ["@samuraitruong/lerna-pkg-4", "./packages/lerna-pkg-4/src"]
+         
+        ]
+      }
+    }
+  }
 }
