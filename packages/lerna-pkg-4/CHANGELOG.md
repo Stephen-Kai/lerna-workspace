@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-4@1.2.0...@samuraitruong/lerna-pkg-4@1.2.1) (2021-06-26)
+
+
+### Bug Fixes
+
+* remove console.log ([d3dcfdf](https://github.com/samuraitruong/lerna-workspace/commit/d3dcfdf66886ec753a1e2e1293424e292ca2ea10))
+
+
+
+
+
 # [1.2.0](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-4@1.1.0...@samuraitruong/lerna-pkg-4@1.2.0) (2021-06-26)
 
 
