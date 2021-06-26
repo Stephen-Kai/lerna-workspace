@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-2@1.1.0...@samuraitruong/lerna-pkg-2@1.2.0) (2021-06-26)
+
+
+### Features
+
+* using typescript ([8e9c84e](https://github.com/samuraitruong/lerna-workspace/commit/8e9c84ec62b2b5a79ffea2a7cb6c98644846957f))
+
+
+
+
+
 # [1.1.0](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-2@1.0.4...@samuraitruong/lerna-pkg-2@1.1.0) (2021-06-26)
 
 
