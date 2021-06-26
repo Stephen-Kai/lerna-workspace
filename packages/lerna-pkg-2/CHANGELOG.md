@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-2@1.3.0...@samuraitruong/lerna-pkg-2@1.4.0) (2021-06-26)
+
+
+### Features
+
+* add rand function ([d29d450](https://github.com/samuraitruong/lerna-workspace/commit/d29d450fd160e7233e65e6e8a85139448e4e067c))
+
+
+
+
+
 # [1.3.0](https://github.com/samuraitruong/lerna-workspace/compare/@samuraitruong/lerna-pkg-2@1.2.0...@samuraitruong/lerna-pkg-2@1.3.0) (2021-06-26)
 
 
