@@ -1,6 +1,6 @@
 {
-  "name": "@samuraitruong/lerna-pkg-2",
-  "version": "1.4.0",
+  "name": "@Stephen-Kai/lerna-pkg-2",
+  "version": "1.5.0",
   "type": "module",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:samuraitruong/lerna-workspace.git",
+    "url": "git@github.com:Stephen-Kai/lerna-workspace.git",
     "directory": "packages/lerna-pkg-2"
   },
   "publishConfig": {

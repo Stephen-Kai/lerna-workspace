@@ -6,6 +6,6 @@ module.exports = {
   },
   testEnvironment: 'node',
   moduleNameMapper: {
-    "@samuraitruong/lerna-pkg-(.*)$": "<rootDir>/packages/lerna-pkg-$1/src",
+    "@Stephen-Kai/lerna-pkg-(.*)$": "<rootDir>/packages/lerna-pkg-$1/src",
   },
 };

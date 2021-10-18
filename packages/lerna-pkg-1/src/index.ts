@@ -1,4 +1,4 @@
-import { format } from "@samuraitruong/lerna-pkg-2";
+import { format } from "@Stephen-Kai/lerna-pkg-2";
 
 /**
  * Sum to number

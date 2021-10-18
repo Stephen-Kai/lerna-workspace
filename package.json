@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "my sample lerna workspace",
   "main": "index.js",
-  "repository": "git@github.com:samuraitruong/lerna-workspace.git",
+  "repository": "git@github.com:Stephen-Kai/lerna-workspace.git",
   "author": "Truong Nguyen <tnguyen@demystdata.com>",
   "license": "MIT",
   "private": true,
@@ -18,10 +18,10 @@
     "dev": "node --loader ts-node/esm src/index.ts"
   },
   "dependencies": {
-    "@samuraitruong/lerna-pkg-1": "*",
-    "@samuraitruong/lerna-pkg-2": "*",
-    "@samuraitruong/lerna-pkg-3": "*",
-    "@samuraitruong/lerna-pkg-4": "*"
+    "@Stephen-Kai/lerna-pkg-1": "*",
+    "@Stephen-Kai/lerna-pkg-2": "*",
+    "@Stephen-Kai/lerna-pkg-3": "*",
+    "@Stephen-Kai/lerna-pkg-4": "*"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
