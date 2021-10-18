@@ -5,7 +5,7 @@ export function format(a, b, c) {
 export function rawFormat(a) {
   return a?.toString()
 }
-export const VERSION = 5;
+export const VERSION = 6;
 
 
 export function rand(max: number) {
