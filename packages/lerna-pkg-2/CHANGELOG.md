@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.1](https://github.com/Stephen-Kai/lerna-workspace/compare/@Stephen-Kai/lerna-pkg-2@1.6.0...@Stephen-Kai/lerna-pkg-2@1.6.1) (2021-10-18)
+
+**Note:** Version bump only for package @Stephen-Kai/lerna-pkg-2
+
+
+
+
+
 # 1.6.0 (2021-10-18)
 
 

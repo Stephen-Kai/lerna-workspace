@@ -1,6 +1,6 @@
 {
   "name": "@Stephen-Kai/lerna-pkg-1",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "type": "module",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -16,7 +16,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "@Stephen-Kai/lerna-pkg-2": "^1.6.0"
+    "@Stephen-Kai/lerna-pkg-2": "^1.6.1"
   },
   "gitHead": "598f5c2d7fb0430ed73031988728ad4db0ac8da3"
 }
